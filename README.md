@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Infrastructure+Specialist;Certified+Kubernetes+Administrator;AWS+%7C+Azure+%7C+K8s+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Operations+Engineer;Certified+Kubernetes+Administrator;AWS+%7C+Azure+%7C+K8s+Expert)](https://git.io/typing-svg)
 
 </div>
 
